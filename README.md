@@ -16,11 +16,11 @@ https://www.youtube.com/watch?v=v2Y7cja0b4c
 
 # My Favorite Gems
 
- > Administrate
+Administrate
 https://github.com/thoughtbot/administrate
 Tutorial: https://gorails.com/episodes/administrate
 
- > Devise
+Devise
 https://github.com/plataformatec/devise
 Tutorial: 
 
@@ -33,30 +33,30 @@ Tutorial:
 Git
 ______________
 
- > git init
+git init
 Start a new repository
 
- > git add .
- > git add file
+git add .
+git add file
 Add all the files or a single file
 
- > git commit -m “commit message about feature or change”
+git commit -m “commit message about feature or change”
 Commit the added files to the repository and describes them
 
- > git status
+git status
 Shows all the files that need to be committed
 
- > git branch
+git branch
 Shows all the branches in the repository with * next to the current one
 
- > git branch branch-name
+git branch branch-name
 Creates a new branch
 
- > git checkout master
- > git checkout name-of-branch
-checks out a copy of the target branch onto your local directory
+git checkout master
+git checkout name-of-branch
+Checks out a copy of the target branch onto your local directory
  
-  > git push origin 
+git push origin 
 sends local changes to remote repository
 
 
