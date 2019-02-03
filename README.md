@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=W8pohTautj8
 Import Data into Rails from a Spreadsheet
 https://www.youtube.com/watch?v=v2Y7cja0b4c
 
+Intro to Rake
+https://www.youtube.com/watch?v=gR0YfJrg9pg
 
 
 # My Favorite Gems
