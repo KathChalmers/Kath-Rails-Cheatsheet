@@ -73,3 +73,6 @@ Devise
 ______________
 
 before_action :authenticate_user!
+before_filter :is_admin?
+  
+  
