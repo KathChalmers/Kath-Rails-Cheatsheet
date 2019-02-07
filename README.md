@@ -30,7 +30,7 @@ Tutorial:
 
 ## Frequently Used Commands
 
-
+______________
 Git
 ______________
 
@@ -60,14 +60,43 @@ Checks out a copy of the target branch onto your local directory
 git push origin  
 sends local changes to remote repository
 
-
+______________
 Rails 5
 ______________
 
-rails g scaffold Company name:string address1:string address2:string city:string state:string zip:string phone:string url:string
+Rails Command Line Guide: https://guides.rubyonrails.org/command_line.html  
+
+add -h at the end of a command for help using it  
+
+rails s  
+rails server  
+
+rails c  
+rails console
+
+rails db  
+
+rails new appname  
+(creates the app in a directory named appname - cd to enter app)  
+
+rails g scaffold Company name:string address1:string address2:string city:string state:string zip:string phone:string url:string  
+
+rails generate controller ControllerName action1 action2
+rails generate model  
+
+rails destroy  
+(Can be used to remove stuff created by rails generate.)  
+
+bin/rails assets:clobber  
+Clear the public/assets folder  
+
+______________
+Rake
+______________
+rake routes  
 
 
-
+______________
 Devise
 ______________
 
