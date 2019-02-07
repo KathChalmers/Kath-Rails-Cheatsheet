@@ -2,7 +2,7 @@
 My favorite tutorials, gems and frequently used commands for easy reference
 
 
-# My Favorite Rails Tutorials
+## My Favorite Rails Tutorials
 
 See gem tutorials below in Favorite Gems list  
 
@@ -16,7 +16,7 @@ Intro to Rake
 https://www.youtube.com/watch?v=gR0YfJrg9pg
 
 
-# My Favorite Gems
+## My Favorite Gems
 
 Devise  
 https://github.com/plataformatec/devise  
@@ -25,7 +25,7 @@ Tutorial:
 
 
 
-# Frequently Used Commands
+## Frequently Used Commands
 
 
 Git
