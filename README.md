@@ -4,15 +4,15 @@ My favorite tutorials, gems and frequently used commands for easy reference
 
 # My Favorite Rails Tutorials
 
-See gem tutorials below in Favorite Gems list
+See gem tutorials below in Favorite Gems list  
 
-How to Build a CSV Uploader into a Ruby on Rails Application
+How to Build a CSV Uploader into a Ruby on Rails Application  
 https://www.youtube.com/watch?v=W8pohTautj8
 
-Import Data into Rails from a Spreadsheet
+Import Data into Rails from a Spreadsheet  
 https://www.youtube.com/watch?v=v2Y7cja0b4c
 
-Intro to Rake
+Intro to Rake  
 https://www.youtube.com/watch?v=gR0YfJrg9pg
 
 
