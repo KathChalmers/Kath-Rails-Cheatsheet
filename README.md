@@ -25,6 +25,22 @@ Devise
 https://github.com/plataformatec/devise  
 Tutorial: 
 
+rails generate devise User  
+rails generate migration add_admin_to_users admin:boolean  
+
+if current_user.admin?  
+  # do something  
+end  
+
+if current_user.try(:admin?)  
+  # do something  
+end  
+
+current_user.update_attribute :admin, true  
+
+
+
+
 
 Rails Layout  
 rails generate layout:install bootstrap4
