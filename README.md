@@ -26,9 +26,31 @@ https://github.com/plataformatec/devise
 Tutorial: 
 
 
+Rails Layout  
+rails generate layout:install bootstrap4
+
+
 
 
 ## Frequently Used Commands
+
+______________
+RVM
+______________
+
+rvm install 2.5.3
+
+rvm use 2.5.3
+
+which ruby
+
+ruby -v
+
+rvm gemset create gemsetname
+
+rvm use 2.5.3@gemsetname --create
+
+rvm gemset use gemsetname
 
 ______________
 Git
@@ -77,6 +99,7 @@ rails console
 rails db  
 
 rails new appname  
+rails new appname --database=postgresql  
 (creates the app in a directory named appname - cd to enter app)  
 
 rails g scaffold Company name:string address1:string address2:string city:string state:string zip:string phone:string url:string  
