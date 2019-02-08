@@ -29,11 +29,11 @@ rails generate devise User
 rails generate migration add_admin_to_users admin:boolean  
 
 if current_user.admin?  
-  # do something  
+   do something  
 end  
 
 if current_user.try(:admin?)  
-  # do something  
+   do something  
 end  
 
 current_user.update_attribute :admin, true  
@@ -151,5 +151,8 @@ Add CSF Upload to Active Admin
 
 http://activeadmin-plugins.github.io/active_admin_import/  
 https://stackoverflow.com/questions/7754896/import-csv-data-in-a-rails-app-with-activeadmin
+
+https://activeadmin.info/9-batch-actions.html
+
   
   
