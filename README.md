@@ -134,12 +134,22 @@ Rake
 ______________
 rake routes  
 
-
+rake db:drop db:create db:migrate db:seed
 ______________
 Devise
 ______________
 
 before_action :authenticate_user!  
 before_filter :is_admin?
+
+
+______________
+Active Admin
+______________
+
+Add CSF Upload to Active Admin  
+
+http://activeadmin-plugins.github.io/active_admin_import/  
+https://stackoverflow.com/questions/7754896/import-csv-data-in-a-rails-app-with-activeadmin
   
   
