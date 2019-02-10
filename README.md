@@ -154,5 +154,14 @@ https://stackoverflow.com/questions/7754896/import-csv-data-in-a-rails-app-with-
 
 https://activeadmin.info/9-batch-actions.html
 
+
+
+____________________________
+Deploy Rails 5 App to Heroku from GitHub
+____________________________
   
-  
+ heroku login  
+ 
+ heroku create  
+ 
+ git push heroku master
