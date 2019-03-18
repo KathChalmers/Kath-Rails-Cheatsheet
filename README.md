@@ -132,6 +132,9 @@ rails destroy
 bin/rails assets:clobber  
 Clear the public/assets folder  
 
+Reserved words in Ruby on Rails  
+https://reservedwords.herokuapp.com  
+
 ______________
 Rake
 ______________
@@ -157,7 +160,8 @@ https://stackoverflow.com/questions/7754896/import-csv-data-in-a-rails-app-with-
 
 https://activeadmin.info/9-batch-actions.html
 
-
+Add new model  
+rails generate active_admin:resource MyModelName
 
 ____________________________
 Deploy Rails 5 App to Heroku from GitHub
