@@ -148,6 +148,9 @@ ______________
 before_action :authenticate_user!  
 before_filter :is_admin?
 
+user=User.create!(:email=>'test@test.com',:username=>'test',:password=>'password')
+
+user=User.create!(:email=>'admin@example.com',:username=>'admin',:password=>'password')
 
 ______________
 Active Admin
