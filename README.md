@@ -175,3 +175,7 @@ ____________________________
  heroku create  
  
  git push heroku master
+ 
+ 
+ 
+ RAILS_ENV=development puma -b tcp://0.0.0.0:3000
