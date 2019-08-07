@@ -179,3 +179,5 @@ ____________________________
  
  
  RAILS_ENV=development puma -b tcp://0.0.0.0:3000
+ 
+ rails s -p 3000
